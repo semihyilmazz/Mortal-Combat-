@@ -1,2 +1,2 @@
-# Mortal-Combat-
+# Mortal-Combat
 Console game based on user input.
